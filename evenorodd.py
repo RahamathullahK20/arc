@@ -3,8 +3,8 @@ def main():
     x=int(raw_input())
     if(x>0):
         if(x%2==0):
-            print("The number is Even")
+            print("Even")
         else:
-            print("The number is odd")
+            print("Odd")
     else:
-        print("The number is invalid")
+        print("invalid")

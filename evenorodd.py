@@ -1,4 +1,4 @@
-#evenorodd
+#evenorod
 def main():
     x=int(raw_input())
     if(x>0):
